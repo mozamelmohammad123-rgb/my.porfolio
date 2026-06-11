@@ -26,3 +26,8 @@ EOF
 
 git add portfolio.md
 git commit -m "Initial portfolio"
+
+# Go back to main branch
+git checkout main
+
+# Edit portfolio.md - update Skills section DIFFERENTLY
