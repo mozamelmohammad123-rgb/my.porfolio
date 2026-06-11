@@ -26,3 +26,8 @@ EOF
 
 git add portfolio.md
 git commit -m "Initial portfolio"
+# Create and switch to desktop branch
+git checkout -b desktop-updates
+
+# Edit portfolio.md - update Skills section
+# Change the Skills section to:
