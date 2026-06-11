@@ -26,3 +26,8 @@ EOF
 
 git add portfolio.md
 git commit -m "Initial portfolio"
+
+## Skills
+- Programming: Python, Java
+- Git: Intermediate
+- Web Development: HTML, CSS
